@@ -13,6 +13,10 @@ $ npm install
 $ npm start
 ```
 
+## Similar Repository
+
+https://github.com/BaseMax/reactjs-todolist
+
 ### Acknowledgment
 
 I saw an [Youtube video](https://www.youtube.com/watch?v=dD0MdMRVHoo) and It's encouraged me to write a similar project myself.
