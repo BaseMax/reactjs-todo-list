@@ -2,9 +2,13 @@
 
 Build A Todo List App with React from Scratch (Including Hooks)
 
-![Reactjs Todo List](demo.png)
+[![Reactjs Todo List](demo.png)](https://basemax.github.io/reactjs-todo-list/)
 
 ## Try & Demo
+
+Check preview at: https://basemax.github.io/reactjs-todo-list/
+
+or build:
 
 ```bash
 $ git clone https://github.com/BaseMax/reactjs-todo-list
