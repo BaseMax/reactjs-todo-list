@@ -1,4 +1,6 @@
-# Reactjs Todo List
+# Reactjs Todo List (CRUD App)
+
+Build A Todo List App with React from Scratch (Including Hooks)
 
 ![Reactjs Todo List](demo.png)
 
