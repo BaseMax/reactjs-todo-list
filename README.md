@@ -6,6 +6,6 @@ Build A Todo List App with React from Scratch (Including Hooks)
 
 ## Acknowledgment
 
-I saw an Youtube video and It's encouraged me to write a similar project myself.
+I saw an [Youtube video](https://www.youtube.com/watch?v=dD0MdMRVHoo) and It's encouraged me to write a similar project myself.
 
 © Copyright Max Base
