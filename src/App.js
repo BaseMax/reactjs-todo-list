@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from 'react';
-import logo from './logo.svg';
 import Header from './components/Header';
 import Form from './components/Form';
 import TodosList from './components/TodosList';
