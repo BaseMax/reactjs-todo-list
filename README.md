@@ -19,7 +19,8 @@ $ npm start
 
 ## Similar Repository
 
-https://github.com/BaseMax/reactjs-todolist
+- https://github.com/BaseMax/reactjs-todolist
+- https://github.com/BaseMax/reactjs-todolist-redux
 
 ### Acknowledgment
 
