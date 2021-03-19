@@ -7,6 +7,7 @@ const TodosList = ({todos, setTodos, setEditTodo}) => {
 				if(item.id === todo.id) {
 					return {...item, completed: !item.completed}
 				}
+				return item
 			})
 		)
 	)
@@ -24,7 +25,7 @@ const TodosList = ({todos, setTodos, setEditTodo}) => {
 				<input
 					type="text"
 					value={todo.title}
-					className={"list ${todo.completed ? 'complete' : ''}"}
+					className={"list "+ (todo.completed ? 'complete' : '')}
 					onChange={(event)=>event.preventDefault()}
 				/>
 				<div>
